@@ -1,4 +1,4 @@
-package br.com.javacore.exerciciofibonacci;
+package br.com.exerciciosjava.exerciciofibonacci;
 
 import java.util.ArrayList;
 

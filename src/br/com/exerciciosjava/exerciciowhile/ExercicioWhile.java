@@ -1,4 +1,4 @@
-package br.com.javacore.exerciciowhile;
+package br.com.exerciciosjava.exerciciowhile;
 import java.util.Scanner;
 
 public class ExercicioWhile {

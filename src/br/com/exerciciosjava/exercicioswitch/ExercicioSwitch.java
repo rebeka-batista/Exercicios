@@ -1,4 +1,4 @@
-package br.com.javacore.exercicioswitch;
+package br.com.exerciciosjava.exercicioswitch;
 
 import java.util.Scanner;
 

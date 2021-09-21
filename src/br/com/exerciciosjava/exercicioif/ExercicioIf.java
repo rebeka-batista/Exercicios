@@ -1,4 +1,4 @@
-package br.com.javacore.exercicioif;
+package br.com.exerciciosjava.exercicioif;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
